@@ -1,0 +1,9 @@
+{
+  "read-more": "Read more",
+  "unavailable": "News service is unavailable now.",
+  "authoring-phase": {
+    "intro": "Made with",
+    "use": "using",
+    "author": "by {brand} Developer Team"
+  }
+}
