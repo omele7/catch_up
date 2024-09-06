@@ -2,7 +2,7 @@
 import { Source } from "../model/source.entity.js";
 import PvAvatar from "../../main.js";
 export default {
-  name: "source-item.component",
+  name: "source-item",
 
   props:{
     source: { type: Source, required:true}

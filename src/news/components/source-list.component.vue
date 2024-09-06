@@ -1,7 +1,7 @@
 <script>
 import {NewsApiService} from "../services/news-api.service.js";
 import {Source} from "../model/source.entity.js";
-import PvDrawer from "../../main.js";
+
 import SourceItem from "./source-item.component.vue";
 
 export default {
